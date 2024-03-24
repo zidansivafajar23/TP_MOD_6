@@ -1,0 +1,15 @@
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\bin\Debug\net8.0\tpmodul6_1302223039.exe
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\bin\Debug\net8.0\tpmodul6_1302223039.deps.json
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\bin\Debug\net8.0\tpmodul6_1302223039.runtimeconfig.json
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\bin\Debug\net8.0\tpmodul6_1302223039.dll
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\bin\Debug\net8.0\tpmodul6_1302223039.pdb
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.AssemblyInfoInputs.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.AssemblyInfo.cs
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.csproj.CoreCompileInputs.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.sourcelink.json
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.dll
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\refint\tpmodul6_1302223039.dll
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.pdb
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\tpmodul6_1302223039.genruntimeconfig.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 6\tpmodul6_1302223039\tpmodul6_1302223039\obj\Debug\net8.0\ref\tpmodul6_1302223039.dll

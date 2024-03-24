@@ -1,7 +1,10 @@
-﻿internal class Program
+﻿using tpmodul6_1302223039;
+internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - Muhammad Zidan Siva Fajar");
+        video.increasePlayCount(20);
+        video.printVideoDetails();
     }
 }
